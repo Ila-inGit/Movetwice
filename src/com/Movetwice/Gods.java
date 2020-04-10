@@ -12,6 +12,6 @@ public class Gods implements  God {
     public boolean moveBuilding(int rFinal) {
         System.out.println("Base: ho mosso un pezzo"+"a"+rFinal);
         return true;
-
     }
+
 }
